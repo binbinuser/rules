@@ -1,0 +1,6 @@
+REM:vid-io-cle.springserve.com
+REM:admedia.publica-ctv.com
+REM:cdn2.videobyte.com
+REM:cds.b5g9b8e4.hwcdn.net
+
+ADD:.plex.tv
